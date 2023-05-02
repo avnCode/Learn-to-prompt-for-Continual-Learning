@@ -1,5 +1,4 @@
 # Learn-to-prompt-for-Continual-Learning
-ViT, Prompt learning
 This is implementation of L2p for Continual learning.
 This uses two of the latest technique Viz, Prompt learning and Vision Transformer for continual learning.
 
